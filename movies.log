@@ -1,0 +1,461 @@
+2022-11-23 10:20:55,559-INFO-FILE:parse_IMDB.py-FUNC:main-LINE:118-
+
+Parsing IMDB website 
+  2022-11-23 10:20:55.559116  
+Using module requests
+
+
+2022-11-23 10:20:57,311-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:75-250 links sucsessfully parsed, divided into 25 batches
+2022-11-23 10:20:58,425-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Shawshank Redemption sucsessfully parsed
+2022-11-23 10:20:59,509-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Godfather sucsessfully parsed
+2022-11-23 10:21:00,609-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie האביר האפל sucsessfully parsed
+2022-11-23 10:21:01,643-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Godfather Part II sucsessfully parsed
+2022-11-23 10:21:02,973-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie שנים עשר המושבעים sucsessfully parsed
+2022-11-23 10:21:04,427-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Schindler's List sucsessfully parsed
+2022-11-23 10:21:05,591-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Lord of the Rings: The Return of the King sucsessfully parsed
+2022-11-23 10:21:06,769-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Pulp Fiction sucsessfully parsed
+2022-11-23 10:21:07,875-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Lord of the Rings: The Fellowship of the Ring sucsessfully parsed
+2022-11-23 10:21:09,186-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Good, the Bad and the Ugly sucsessfully parsed
+2022-11-23 10:21:10,419-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Forrest Gump sucsessfully parsed
+2022-11-23 10:21:11,908-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Fight Club sucsessfully parsed
+2022-11-23 10:21:13,337-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Lord of the Rings: The Two Towers sucsessfully parsed
+2022-11-23 10:21:14,515-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Inception sucsessfully parsed
+2022-11-23 10:21:15,862-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Empire Strikes Back sucsessfully parsed
+2022-11-23 10:21:17,062-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie מטריקס sucsessfully parsed
+2022-11-23 10:21:18,434-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie החבר'ה הטובים sucsessfully parsed
+2022-11-23 10:21:19,595-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie One Flew Over the Cuckoo's Nest sucsessfully parsed
+2022-11-23 10:21:20,807-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie שבעה חטאים sucsessfully parsed
+2022-11-23 10:21:21,995-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Shichinin No Samurai sucsessfully parsed
+2022-11-23 10:21:23,443-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie It's a Wonderful Life sucsessfully parsed
+2022-11-23 10:21:24,752-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Silence of the Lambs sucsessfully parsed
+2022-11-23 10:21:26,438-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie City of God sucsessfully parsed
+2022-11-23 10:21:27,752-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Saving Private Ryan sucsessfully parsed
+2022-11-23 10:21:28,877-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie החיים יפים sucsessfully parsed
+2022-11-23 10:21:30,184-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Interstellar sucsessfully parsed
+2022-11-23 10:21:31,303-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie גרין מייל sucsessfully parsed
+2022-11-23 10:21:32,551-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Star Wars sucsessfully parsed
+2022-11-23 10:21:34,001-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Terminator 2: Judgment Day sucsessfully parsed
+2022-11-23 10:21:35,237-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Back to the Future sucsessfully parsed
+2022-11-23 10:21:36,361-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Wonderful Journey sucsessfully parsed
+2022-11-23 10:21:37,633-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Psycho sucsessfully parsed
+2022-11-23 10:21:38,747-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Pianist sucsessfully parsed
+2022-11-23 10:21:39,912-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Gisaengchung sucsessfully parsed
+2022-11-23 10:21:41,697-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Léon sucsessfully parsed
+2022-11-23 10:21:42,861-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Lion King sucsessfully parsed
+2022-11-23 10:21:44,060-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Gladiator sucsessfully parsed
+2022-11-23 10:21:45,158-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie American History X sucsessfully parsed
+2022-11-23 10:21:46,442-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Departed sucsessfully parsed
+2022-11-23 10:21:48,013-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Usual Suspects sucsessfully parsed
+2022-11-23 10:21:49,378-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Prestige sucsessfully parsed
+2022-11-23 10:21:50,745-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Whiplash sucsessfully parsed
+2022-11-23 10:21:52,037-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie קזבלנקה sucsessfully parsed
+2022-11-23 10:21:53,151-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Harakiri sucsessfully parsed
+2022-11-23 10:21:54,394-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Intouchables sucsessfully parsed
+2022-11-23 10:21:55,471-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Hotaru No Haka sucsessfully parsed
+2022-11-23 10:21:56,833-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Modern Times sucsessfully parsed
+2022-11-23 10:21:58,198-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie C'era Una Volta Il West sucsessfully parsed
+2022-11-23 10:21:59,720-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Rear Window sucsessfully parsed
+2022-11-23 10:22:01,047-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Alien sucsessfully parsed
+2022-11-23 10:22:02,198-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie City Lights sucsessfully parsed
+2022-11-23 10:22:03,776-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Cinema Paradiso sucsessfully parsed
+2022-11-23 10:22:05,008-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Apocalypse Now sucsessfully parsed
+2022-11-23 10:22:06,166-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Memento sucsessfully parsed
+2022-11-23 10:22:07,346-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Raiders of the Lost Ark sucsessfully parsed
+2022-11-23 10:22:08,751-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Django Unchained sucsessfully parsed
+2022-11-23 10:22:09,792-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie WALL·E sucsessfully parsed
+2022-11-23 10:22:11,273-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Das Leben der Anderen sucsessfully parsed
+2022-11-23 10:22:12,474-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Sunset Blvd. sucsessfully parsed
+2022-11-23 10:22:13,652-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Paths of Glory sucsessfully parsed
+2022-11-23 10:22:15,180-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Shining sucsessfully parsed
+2022-11-23 10:22:16,277-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Great Dictator sucsessfully parsed
+2022-11-23 10:22:17,577-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Avengers: Infinity War sucsessfully parsed
+2022-11-23 10:22:18,720-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Witness for the Prosecution sucsessfully parsed
+2022-11-23 10:22:19,989-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Alien 2 sucsessfully parsed
+2022-11-23 10:22:21,130-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Spider-Man: Into the Spider-Verse sucsessfully parsed
+2022-11-23 10:22:22,389-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie American Beauty sucsessfully parsed
+2022-11-23 10:22:23,889-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb sucsessfully parsed
+2022-11-23 10:22:25,460-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Dark Knight Rises sucsessfully parsed
+2022-11-23 10:22:26,619-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Oldeuboi sucsessfully parsed
+2022-11-23 10:22:27,873-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Amadeus sucsessfully parsed
+2022-11-23 10:22:29,248-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Joker sucsessfully parsed
+2022-11-23 10:22:31,062-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Inglourious Basterds sucsessfully parsed
+2022-11-23 10:22:32,320-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Coco sucsessfully parsed
+2022-11-23 10:22:33,587-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Toy Story sucsessfully parsed
+2022-11-23 10:22:34,929-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Braveheart sucsessfully parsed
+2022-11-23 10:22:36,248-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Das Boot sucsessfully parsed
+2022-11-23 10:22:37,391-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Avengers: Endgame sucsessfully parsed
+2022-11-23 10:22:38,228-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Princess Mononoke sucsessfully parsed
+2022-11-23 10:22:39,560-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Once Upon a Time in America sucsessfully parsed
+2022-11-23 10:22:40,690-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Good Will Hunting sucsessfully parsed
+2022-11-23 10:22:42,174-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Top Gun: Maverick sucsessfully parsed
+2022-11-23 10:22:43,648-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Kimi No Na Wa. sucsessfully parsed
+2022-11-23 10:22:44,812-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Requiem for a Dream sucsessfully parsed
+2022-11-23 10:22:46,009-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Singin' in the Rain sucsessfully parsed
+2022-11-23 10:22:47,167-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Toy Story 3 sucsessfully parsed
+2022-11-23 10:22:48,679-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie 3 Idiots sucsessfully parsed
+2022-11-23 10:22:50,067-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie High and Low sucsessfully parsed
+2022-11-23 10:22:51,428-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Star Wars: Episode VI - Return of the Jedi sucsessfully parsed
+2022-11-23 10:22:52,537-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Capharnaüm sucsessfully parsed
+2022-11-23 10:22:53,824-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Eternal Sunshine of the Spotless Mind sucsessfully parsed
+2022-11-23 10:22:55,315-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie 2001: A Space Odyssey sucsessfully parsed
+2022-11-23 10:22:56,623-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Reservoir Dogs sucsessfully parsed
+2022-11-23 10:22:57,871-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Jagten sucsessfully parsed
+2022-11-23 10:22:59,145-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Idi I Smotri sucsessfully parsed
+2022-11-23 10:23:00,412-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Citizen Kane sucsessfully parsed
+2022-11-23 10:23:01,822-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie M sucsessfully parsed
+2022-11-23 10:23:03,024-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Lawrence of Arabia sucsessfully parsed
+2022-11-23 10:23:04,143-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie North by Northwest sucsessfully parsed
+2022-11-23 10:23:05,356-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Vertigo sucsessfully parsed
+2022-11-23 10:23:05,356-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:97-
+250 Pages parsed successfully
+ Time elapsed : 0:02:08.044268
+2022-11-23 10:23:57,532-INFO-FILE:parse_IMDB.py-FUNC:main-LINE:118-
+
+Parsing IMDB website 
+  2022-11-23 10:23:57.532818  
+Using module grequests
+
+
+2022-11-23 10:23:59,122-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:75-250 links sucsessfully parsed, divided into 25 batches
+2022-11-23 10:24:00,573-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:89-Links in the batch 0 sucsessfully opened, parsing info
+2022-11-23 10:24:00,679-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Shawshank Redemption sucsessfully parsed
+2022-11-23 10:24:00,774-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Godfather sucsessfully parsed
+2022-11-23 10:24:00,873-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie האביר האפל sucsessfully parsed
+2022-11-23 10:24:00,967-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Godfather Part II sucsessfully parsed
+2022-11-23 10:24:01,096-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie שנים עשר המושבעים sucsessfully parsed
+2022-11-23 10:24:01,186-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Schindler's List sucsessfully parsed
+2022-11-23 10:24:01,287-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Lord of the Rings: The Return of the King sucsessfully parsed
+2022-11-23 10:24:01,402-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Pulp Fiction sucsessfully parsed
+2022-11-23 10:24:01,504-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Lord of the Rings: The Fellowship of the Ring sucsessfully parsed
+2022-11-23 10:24:01,655-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Good, the Bad and the Ugly sucsessfully parsed
+2022-11-23 10:24:03,166-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:89-Links in the batch 1 sucsessfully opened, parsing info
+2022-11-23 10:24:03,277-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Forrest Gump sucsessfully parsed
+2022-11-23 10:24:03,369-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Fight Club sucsessfully parsed
+2022-11-23 10:24:03,468-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Lord of the Rings: The Two Towers sucsessfully parsed
+2022-11-23 10:24:03,566-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Inception sucsessfully parsed
+2022-11-23 10:24:03,717-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Empire Strikes Back sucsessfully parsed
+2022-11-23 10:24:03,816-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie מטריקס sucsessfully parsed
+2022-11-23 10:24:03,909-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie החבר'ה הטובים sucsessfully parsed
+2022-11-23 10:24:04,001-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie One Flew Over the Cuckoo's Nest sucsessfully parsed
+2022-11-23 10:24:04,095-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie שבעה חטאים sucsessfully parsed
+2022-11-23 10:24:04,185-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Shichinin No Samurai sucsessfully parsed
+2022-11-23 10:24:05,491-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:89-Links in the batch 2 sucsessfully opened, parsing info
+2022-11-23 10:24:05,616-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie It's a Wonderful Life sucsessfully parsed
+2022-11-23 10:24:05,736-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Silence of the Lambs sucsessfully parsed
+2022-11-23 10:24:05,847-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie City of God sucsessfully parsed
+2022-11-23 10:24:05,970-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Saving Private Ryan sucsessfully parsed
+2022-11-23 10:24:06,077-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie החיים יפים sucsessfully parsed
+2022-11-23 10:24:06,227-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Interstellar sucsessfully parsed
+2022-11-23 10:24:06,325-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie גרין מייל sucsessfully parsed
+2022-11-23 10:24:06,440-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Star Wars sucsessfully parsed
+2022-11-23 10:24:06,557-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Terminator 2: Judgment Day sucsessfully parsed
+2022-11-23 10:24:06,662-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Back to the Future sucsessfully parsed
+2022-11-23 10:24:08,062-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:89-Links in the batch 3 sucsessfully opened, parsing info
+2022-11-23 10:24:08,224-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Wonderful Journey sucsessfully parsed
+2022-11-23 10:24:08,316-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Psycho sucsessfully parsed
+2022-11-23 10:24:08,403-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Pianist sucsessfully parsed
+2022-11-23 10:24:08,498-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Gisaengchung sucsessfully parsed
+2022-11-23 10:24:08,593-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Léon sucsessfully parsed
+2022-11-23 10:24:08,763-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Lion King sucsessfully parsed
+2022-11-23 10:24:08,861-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Gladiator sucsessfully parsed
+2022-11-23 10:24:08,952-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie American History X sucsessfully parsed
+2022-11-23 10:24:09,045-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Departed sucsessfully parsed
+2022-11-23 10:24:09,134-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Usual Suspects sucsessfully parsed
+2022-11-23 10:24:10,552-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:89-Links in the batch 4 sucsessfully opened, parsing info
+2022-11-23 10:24:10,660-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Prestige sucsessfully parsed
+2022-11-23 10:24:10,813-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Whiplash sucsessfully parsed
+2022-11-23 10:24:10,905-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie קזבלנקה sucsessfully parsed
+2022-11-23 10:24:10,988-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Harakiri sucsessfully parsed
+2022-11-23 10:24:11,077-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Intouchables sucsessfully parsed
+2022-11-23 10:24:11,168-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Hotaru No Haka sucsessfully parsed
+2022-11-23 10:24:11,307-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Modern Times sucsessfully parsed
+2022-11-23 10:24:11,401-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie C'era Una Volta Il West sucsessfully parsed
+2022-11-23 10:24:11,490-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Rear Window sucsessfully parsed
+2022-11-23 10:24:11,579-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Alien sucsessfully parsed
+2022-11-23 10:24:13,023-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:89-Links in the batch 5 sucsessfully opened, parsing info
+2022-11-23 10:24:13,122-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie City Lights sucsessfully parsed
+2022-11-23 10:24:13,263-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Cinema Paradiso sucsessfully parsed
+2022-11-23 10:24:13,372-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Apocalypse Now sucsessfully parsed
+2022-11-23 10:24:13,473-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Memento sucsessfully parsed
+2022-11-23 10:24:13,573-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Raiders of the Lost Ark sucsessfully parsed
+2022-11-23 10:24:13,669-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Django Unchained sucsessfully parsed
+2022-11-23 10:24:13,764-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie WALL·E sucsessfully parsed
+2022-11-23 10:24:13,914-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Das Leben der Anderen sucsessfully parsed
+2022-11-23 10:24:14,005-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Sunset Blvd. sucsessfully parsed
+2022-11-23 10:24:14,096-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Paths of Glory sucsessfully parsed
+2022-11-23 10:24:15,486-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:89-Links in the batch 6 sucsessfully opened, parsing info
+2022-11-23 10:24:15,602-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Shining sucsessfully parsed
+2022-11-23 10:24:15,704-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Great Dictator sucsessfully parsed
+2022-11-23 10:24:15,863-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Avengers: Infinity War sucsessfully parsed
+2022-11-23 10:24:15,955-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Witness for the Prosecution sucsessfully parsed
+2022-11-23 10:24:16,057-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Alien 2 sucsessfully parsed
+2022-11-23 10:24:16,161-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Spider-Man: Into the Spider-Verse sucsessfully parsed
+2022-11-23 10:24:16,260-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie American Beauty sucsessfully parsed
+2022-11-23 10:24:16,411-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb sucsessfully parsed
+2022-11-23 10:24:16,514-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Dark Knight Rises sucsessfully parsed
+2022-11-23 10:24:16,612-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Oldeuboi sucsessfully parsed
+2022-11-23 10:24:17,886-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:89-Links in the batch 7 sucsessfully opened, parsing info
+2022-11-23 10:24:17,989-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Amadeus sucsessfully parsed
+2022-11-23 10:24:18,086-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Joker sucsessfully parsed
+2022-11-23 10:24:18,230-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Inglourious Basterds sucsessfully parsed
+2022-11-23 10:24:18,339-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Coco sucsessfully parsed
+2022-11-23 10:24:18,433-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Toy Story sucsessfully parsed
+2022-11-23 10:24:18,526-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Braveheart sucsessfully parsed
+2022-11-23 10:24:18,620-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Das Boot sucsessfully parsed
+2022-11-23 10:24:18,724-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Avengers: Endgame sucsessfully parsed
+2022-11-23 10:24:18,881-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Princess Mononoke sucsessfully parsed
+2022-11-23 10:24:18,974-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Once Upon a Time in America sucsessfully parsed
+2022-11-23 10:24:20,601-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:89-Links in the batch 8 sucsessfully opened, parsing info
+2022-11-23 10:24:20,712-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Good Will Hunting sucsessfully parsed
+2022-11-23 10:24:20,819-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Top Gun: Maverick sucsessfully parsed
+2022-11-23 10:24:20,918-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Kimi No Na Wa. sucsessfully parsed
+2022-11-23 10:24:21,071-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Requiem for a Dream sucsessfully parsed
+2022-11-23 10:24:21,163-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Singin' in the Rain sucsessfully parsed
+2022-11-23 10:24:21,259-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Toy Story 3 sucsessfully parsed
+2022-11-23 10:24:21,355-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie 3 Idiots sucsessfully parsed
+2022-11-23 10:24:21,446-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie High and Low sucsessfully parsed
+2022-11-23 10:24:21,614-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Star Wars: Episode VI - Return of the Jedi sucsessfully parsed
+2022-11-23 10:24:21,712-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Capharnaüm sucsessfully parsed
+2022-11-23 10:24:23,389-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:89-Links in the batch 9 sucsessfully opened, parsing info
+2022-11-23 10:24:23,499-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Eternal Sunshine of the Spotless Mind sucsessfully parsed
+2022-11-23 10:24:23,598-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie 2001: A Space Odyssey sucsessfully parsed
+2022-11-23 10:24:23,693-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Reservoir Dogs sucsessfully parsed
+2022-11-23 10:24:23,782-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Jagten sucsessfully parsed
+2022-11-23 10:24:23,931-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Idi I Smotri sucsessfully parsed
+2022-11-23 10:24:24,029-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Citizen Kane sucsessfully parsed
+2022-11-23 10:24:24,123-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie M sucsessfully parsed
+2022-11-23 10:24:24,218-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Lawrence of Arabia sucsessfully parsed
+2022-11-23 10:24:24,309-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie North by Northwest sucsessfully parsed
+2022-11-23 10:24:24,465-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Vertigo sucsessfully parsed
+2022-11-23 10:24:25,910-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:89-Links in the batch 10 sucsessfully opened, parsing info
+2022-11-23 10:24:26,014-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Le fabuleux destin d'Amélie Poulain sucsessfully parsed
+2022-11-23 10:24:26,106-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Naranja mecánica sucsessfully parsed
+2022-11-23 10:24:26,193-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Apartment sucsessfully parsed
+2022-11-23 10:24:26,278-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Ikiru sucsessfully parsed
+2022-11-23 10:24:26,414-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Double Indemnity sucsessfully parsed
+2022-11-23 10:24:26,515-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Full Metal Jacket sucsessfully parsed
+2022-11-23 10:24:26,605-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Scarface sucsessfully parsed
+2022-11-23 10:24:26,696-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie המילטון sucsessfully parsed
+2022-11-23 10:24:26,784-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Sting sucsessfully parsed
+2022-11-23 10:24:26,878-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie To Kill a Mockingbird sucsessfully parsed
+2022-11-23 10:24:28,258-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:89-Links in the batch 11 sucsessfully opened, parsing info
+2022-11-23 10:24:28,412-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Incendies sucsessfully parsed
+2022-11-23 10:24:28,513-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Up sucsessfully parsed
+2022-11-23 10:24:28,605-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie היט sucsessfully parsed
+2022-11-23 10:24:28,702-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie נהג מונית sucsessfully parsed
+2022-11-23 10:24:28,793-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Jodaeiye Nader az Simin sucsessfully parsed
+2022-11-23 10:24:28,940-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Metropolis sucsessfully parsed
+2022-11-23 10:24:29,041-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie L.A. Confidential sucsessfully parsed
+2022-11-23 10:24:29,136-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Snatch sucsessfully parsed
+2022-11-23 10:24:29,246-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie מת לחיות sucsessfully parsed
+2022-11-23 10:24:29,338-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Ladri di biciclette sucsessfully parsed
+2022-11-23 10:24:30,820-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:89-Links in the batch 12 sucsessfully opened, parsing info
+2022-11-23 10:24:30,929-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Indiana Jones and the Last Crusade sucsessfully parsed
+2022-11-23 10:24:31,085-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie 1917 sucsessfully parsed
+2022-11-23 10:24:31,171-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Taare Zameen Par sucsessfully parsed
+2022-11-23 10:24:31,257-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Der Untergang sucsessfully parsed
+2022-11-23 10:24:31,347-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie For a Few Dollars More sucsessfully parsed
+2022-11-23 10:24:31,441-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Batman Begins sucsessfully parsed
+2022-11-23 10:24:31,580-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Dangal sucsessfully parsed
+2022-11-23 10:24:31,666-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Kid sucsessfully parsed
+2022-11-23 10:24:31,755-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Some Like It Hot sucsessfully parsed
+2022-11-23 10:24:31,853-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Father sucsessfully parsed
+2022-11-23 10:24:33,037-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:89-Links in the batch 13 sucsessfully opened, parsing info
+2022-11-23 10:24:33,140-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie All About Eve sucsessfully parsed
+2022-11-23 10:24:33,284-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Green Book sucsessfully parsed
+2022-11-23 10:24:33,397-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Wolf of Wall Street sucsessfully parsed
+2022-11-23 10:24:33,493-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Judgment at Nuremberg sucsessfully parsed
+2022-11-23 10:24:33,584-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Ran sucsessfully parsed
+2022-11-23 10:24:33,676-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Casino sucsessfully parsed
+2022-11-23 10:24:33,774-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie El laberinto del fauno sucsessfully parsed
+2022-11-23 10:24:33,933-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Unforgiven sucsessfully parsed
+2022-11-23 10:24:34,027-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie There Will Be Blood sucsessfully parsed
+2022-11-23 10:24:34,116-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Truman Show sucsessfully parsed
+2022-11-23 10:24:35,565-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:89-Links in the batch 14 sucsessfully opened, parsing info
+2022-11-23 10:24:35,669-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Sixth Sense sucsessfully parsed
+2022-11-23 10:24:35,760-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie A Beautiful Mind sucsessfully parsed
+2022-11-23 10:24:35,931-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie ספיידרמן: אין דרך הביתה sucsessfully parsed
+2022-11-23 10:24:36,029-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Yojimbo sucsessfully parsed
+2022-11-23 10:24:36,124-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie שאטר איילנד sucsessfully parsed
+2022-11-23 10:24:36,227-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Monty Python and the Holy Grail sucsessfully parsed
+2022-11-23 10:24:36,326-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Treasure of the Sierra Madre sucsessfully parsed
+2022-11-23 10:24:36,433-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Jurassic Park sucsessfully parsed
+2022-11-23 10:24:36,592-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Great Escape sucsessfully parsed
+2022-11-23 10:24:36,676-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Rashomon sucsessfully parsed
+2022-11-23 10:24:38,056-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:89-Links in the batch 15 sucsessfully opened, parsing info
+2022-11-23 10:24:38,173-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Kill Bill: Vol. 1 sucsessfully parsed
+2022-11-23 10:24:38,265-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie No Country for Old Men sucsessfully parsed
+2022-11-23 10:24:38,365-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Finding Nemo sucsessfully parsed
+2022-11-23 10:24:38,511-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Thing sucsessfully parsed
+2022-11-23 10:24:38,600-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Elephant Man sucsessfully parsed
+2022-11-23 10:24:38,696-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Chinatown sucsessfully parsed
+2022-11-23 10:24:38,792-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Raging Bull sucsessfully parsed
+2022-11-23 10:24:38,886-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie V for Vendetta sucsessfully parsed
+2022-11-23 10:24:39,036-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Gone with the Wind sucsessfully parsed
+2022-11-23 10:24:39,162-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Inside Out sucsessfully parsed
+2022-11-23 10:24:40,638-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:89-Links in the batch 16 sucsessfully opened, parsing info
+2022-11-23 10:24:40,754-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Lock, Stock and Two Smoking Barrels sucsessfully parsed
+2022-11-23 10:24:40,856-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Dial M for Murder sucsessfully parsed
+2022-11-23 10:24:40,949-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Secret in Their Eyes sucsessfully parsed
+2022-11-23 10:24:41,051-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Hauru No Ugoku Shiro sucsessfully parsed
+2022-11-23 10:24:41,213-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Bridge on the River Kwai sucsessfully parsed
+2022-11-23 10:24:41,316-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Three Billboards Outside Ebbing, Missouri sucsessfully parsed
+2022-11-23 10:24:41,410-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Trainspotting sucsessfully parsed
+2022-11-23 10:24:41,501-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Warrior sucsessfully parsed
+2022-11-23 10:24:41,597-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie פארגו sucsessfully parsed
+2022-11-23 10:24:41,747-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Gran Torino sucsessfully parsed
+2022-11-23 10:24:43,224-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:89-Links in the batch 17 sucsessfully opened, parsing info
+2022-11-23 10:24:43,338-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Prisoners sucsessfully parsed
+2022-11-23 10:24:43,439-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie My Neighbor Totoro sucsessfully parsed
+2022-11-23 10:24:43,537-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Million Dollar Baby sucsessfully parsed
+2022-11-23 10:24:43,629-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Catch Me If You Can sucsessfully parsed
+2022-11-23 10:24:43,768-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Children of Heaven sucsessfully parsed
+2022-11-23 10:24:43,868-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Gold Rush sucsessfully parsed
+2022-11-23 10:24:43,967-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Blade Runner sucsessfully parsed
+2022-11-23 10:24:44,063-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie On the Waterfront sucsessfully parsed
+2022-11-23 10:24:44,161-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie לפני הזריחה sucsessfully parsed
+2022-11-23 10:24:44,262-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie 12 Years a Slave sucsessfully parsed
+2022-11-23 10:24:46,063-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:89-Links in the batch 18 sucsessfully opened, parsing info
+2022-11-23 10:24:46,233-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Harry Potter and the Deathly Hallows - Part 2 sucsessfully parsed
+2022-11-23 10:24:46,322-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Ben-Hur sucsessfully parsed
+2022-11-23 10:24:46,404-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Wild Strawberries sucsessfully parsed
+2022-11-23 10:24:46,495-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Third Man sucsessfully parsed
+2022-11-23 10:24:46,586-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Gone Girl sucsessfully parsed
+2022-11-23 10:24:46,726-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The General sucsessfully parsed
+2022-11-23 10:24:46,822-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Grand Budapest Hotel sucsessfully parsed
+2022-11-23 10:24:46,912-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Deer Hunter sucsessfully parsed
+2022-11-23 10:24:46,996-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie In the Name of the Father sucsessfully parsed
+2022-11-23 10:24:47,082-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Barry Lyndon sucsessfully parsed
+2022-11-23 10:24:48,605-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:89-Links in the batch 19 sucsessfully opened, parsing info
+2022-11-23 10:24:48,710-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Wages of Fear sucsessfully parsed
+2022-11-23 10:24:48,859-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Klaus sucsessfully parsed
+2022-11-23 10:24:48,951-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Hacksaw Ridge sucsessfully parsed
+2022-11-23 10:24:49,036-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Mr. Smith Goes to Washington sucsessfully parsed
+2022-11-23 10:24:49,118-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Sherlock Jr. sucsessfully parsed
+2022-11-23 10:24:49,204-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie זכרונות מרצח sucsessfully parsed
+2022-11-23 10:24:49,347-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Relatos salvajes sucsessfully parsed
+2022-11-23 10:24:49,433-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Det sjunde inseglet sucsessfully parsed
+2022-11-23 10:24:49,525-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Room sucsessfully parsed
+2022-11-23 10:24:49,617-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Mad Max: Fury Road sucsessfully parsed
+2022-11-23 10:24:50,961-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:89-Links in the batch 20 sucsessfully opened, parsing info
+2022-11-23 10:24:51,065-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Mary and Max. sucsessfully parsed
+2022-11-23 10:24:51,213-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie How to Train Your Dragon sucsessfully parsed
+2022-11-23 10:24:51,309-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie ביג לבובסקי sucsessfully parsed
+2022-11-23 10:24:51,402-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Monsters, Inc. sucsessfully parsed
+2022-11-23 10:24:51,499-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Jaws sucsessfully parsed
+2022-11-23 10:24:51,604-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Dead Poets Society sucsessfully parsed
+2022-11-23 10:24:51,696-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Passion of Joan of Arc sucsessfully parsed
+2022-11-23 10:24:51,839-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Tokyo Story sucsessfully parsed
+2022-11-23 10:24:51,926-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Hotel Rwanda sucsessfully parsed
+2022-11-23 10:24:52,019-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Ford v Ferrari sucsessfully parsed
+2022-11-23 10:24:53,605-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:89-Links in the batch 21 sucsessfully opened, parsing info
+2022-11-23 10:24:53,715-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie רוקי sucsessfully parsed
+2022-11-23 10:24:53,804-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Platoon sucsessfully parsed
+2022-11-23 10:24:53,948-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Stand by Me sucsessfully parsed
+2022-11-23 10:24:54,043-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie שליחות קטלנית sucsessfully parsed
+2022-11-23 10:24:54,131-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Spotlight sucsessfully parsed
+2022-11-23 10:24:54,226-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Logan sucsessfully parsed
+2022-11-23 10:24:54,320-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Ratatouille sucsessfully parsed
+2022-11-23 10:24:54,453-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Pather Panchali sucsessfully parsed
+2022-11-23 10:24:54,550-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Rush sucsessfully parsed
+2022-11-23 10:24:54,635-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Network sucsessfully parsed
+2022-11-23 10:24:55,927-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:89-Links in the batch 22 sucsessfully opened, parsing info
+2022-11-23 10:24:56,035-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie עד קצה העולם sucsessfully parsed
+2022-11-23 10:24:56,131-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Wizard of Oz sucsessfully parsed
+2022-11-23 10:24:56,217-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Before Sunset sucsessfully parsed
+2022-11-23 10:24:56,365-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Groundhog Day sucsessfully parsed
+2022-11-23 10:24:56,454-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Exorcist sucsessfully parsed
+2022-11-23 10:24:56,544-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Best Years of Our Lives sucsessfully parsed
+2022-11-23 10:24:56,642-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Incredibles sucsessfully parsed
+2022-11-23 10:24:56,728-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie La battaglia di Algeri sucsessfully parsed
+2022-11-23 10:24:56,861-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie To Be or Not to Be sucsessfully parsed
+2022-11-23 10:24:56,954-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Hachi: A Dog's Tale sucsessfully parsed
+2022-11-23 10:24:58,140-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:89-Links in the batch 23 sucsessfully opened, parsing info
+2022-11-23 10:24:58,250-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Pirates of the Caribbean: The Curse of the Black Pearl sucsessfully parsed
+2022-11-23 10:24:58,342-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Everything Everywhere All at Once sucsessfully parsed
+2022-11-23 10:24:58,426-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Grapes of Wrath sucsessfully parsed
+2022-11-23 10:24:58,514-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie La haine sucsessfully parsed
+2022-11-23 10:24:58,661-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Amores perros sucsessfully parsed
+2022-11-23 10:24:58,745-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Jai Bhim sucsessfully parsed
+2022-11-23 10:24:58,833-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Rebecca sucsessfully parsed
+2022-11-23 10:24:58,913-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Babam ve Oglum sucsessfully parsed
+2022-11-23 10:24:59,001-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Cool Hand Luke sucsessfully parsed
+2022-11-23 10:24:59,134-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Les quatre cents coups sucsessfully parsed
+2022-11-23 10:25:00,556-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:89-Links in the batch 24 sucsessfully opened, parsing info
+2022-11-23 10:25:00,646-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Ah-ga-ssi sucsessfully parsed
+2022-11-23 10:25:00,739-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Sound of Music sucsessfully parsed
+2022-11-23 10:25:00,837-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie It Happened One Night sucsessfully parsed
+2022-11-23 10:25:00,923-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Persona sucsessfully parsed
+2022-11-23 10:25:01,015-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Life of Brian sucsessfully parsed
+2022-11-23 10:25:01,163-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Dersu Uzala sucsessfully parsed
+2022-11-23 10:25:01,259-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Aladdin sucsessfully parsed
+2022-11-23 10:25:01,352-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Help sucsessfully parsed
+2022-11-23 10:25:01,444-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Iron Giant sucsessfully parsed
+2022-11-23 10:25:01,534-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Gandhi sucsessfully parsed
+2022-11-23 10:25:01,534-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:97-
+250 Pages parsed successfully
+ Time elapsed : 0:01:02.411760
+2022-11-25 12:03:28,510-INFO-FILE:parse_IMDB.py-FUNC:main-LINE:118-
+
+Parsing IMDB website 
+  2022-11-25 12:03:28.509936  
+Using module grequests
+
+
+2022-11-25 12:03:30,495-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:75-250 links sucsessfully parsed, divided into 25 batches
+2022-11-25 12:03:33,140-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:89-Links in the batch 0 sucsessfully opened, parsing info
+2022-11-25 12:03:33,269-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Shawshank Redemption sucsessfully parsed
+2022-11-25 12:03:33,379-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Godfather sucsessfully parsed
+2022-11-25 12:03:33,531-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie האביר האפל sucsessfully parsed
+2022-11-25 12:03:33,651-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Godfather Part II sucsessfully parsed
+2022-11-25 12:03:33,750-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie שנים עשר המושבעים sucsessfully parsed
+2022-11-25 12:03:33,939-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Schindler's List sucsessfully parsed
+2022-11-25 12:03:34,111-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Lord of the Rings: The Return of the King sucsessfully parsed
+2022-11-25 12:03:34,288-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Pulp Fiction sucsessfully parsed
+2022-11-25 12:03:34,450-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Lord of the Rings: The Fellowship of the Ring sucsessfully parsed
+2022-11-25 12:03:34,588-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Good, the Bad and the Ugly sucsessfully parsed
+2022-11-25 12:03:37,038-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:89-Links in the batch 1 sucsessfully opened, parsing info
+2022-11-25 12:03:37,307-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Forrest Gump sucsessfully parsed
+2022-11-25 12:03:37,470-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Fight Club sucsessfully parsed
+2022-11-25 12:03:37,642-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Lord of the Rings: The Two Towers sucsessfully parsed
+2022-11-25 12:03:37,787-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Inception sucsessfully parsed
+2022-11-25 12:03:37,896-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Empire Strikes Back sucsessfully parsed
+2022-11-25 12:03:38,085-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie מטריקס sucsessfully parsed
+2022-11-25 12:03:38,215-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie החבר'ה הטובים sucsessfully parsed
+2022-11-25 12:03:38,323-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie One Flew Over the Cuckoo's Nest sucsessfully parsed
+2022-11-25 12:03:38,428-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie שבעה חטאים sucsessfully parsed
+2022-11-25 12:03:38,538-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Shichinin No Samurai sucsessfully parsed
+2022-11-25 12:03:41,035-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:89-Links in the batch 2 sucsessfully opened, parsing info
+2022-11-25 12:03:41,160-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie It's a Wonderful Life sucsessfully parsed
+2022-11-25 12:03:41,347-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Silence of the Lambs sucsessfully parsed
+2022-11-25 12:03:41,451-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie City of God sucsessfully parsed
+2022-11-25 12:03:41,559-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Saving Private Ryan sucsessfully parsed
+2022-11-25 12:03:41,667-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie החיים יפים sucsessfully parsed
+2022-11-25 12:03:41,803-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Interstellar sucsessfully parsed
+2022-11-25 12:03:41,990-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie גרין מייל sucsessfully parsed
+2022-11-25 12:03:42,123-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Star Wars sucsessfully parsed
+2022-11-25 12:03:42,246-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Terminator 2: Judgment Day sucsessfully parsed
+2022-11-25 12:03:42,362-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Back to the Future sucsessfully parsed
+2022-11-25 12:03:44,694-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:89-Links in the batch 3 sucsessfully opened, parsing info
+2022-11-25 12:03:44,814-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Wonderful Journey sucsessfully parsed
+2022-11-25 12:03:44,989-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Psycho sucsessfully parsed
+2022-11-25 12:03:45,094-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Pianist sucsessfully parsed
+2022-11-25 12:03:45,200-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Gisaengchung sucsessfully parsed
+2022-11-25 12:03:45,306-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Léon sucsessfully parsed
+2022-11-25 12:03:45,424-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Lion King sucsessfully parsed
+2022-11-25 12:03:45,585-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Gladiator sucsessfully parsed
+2022-11-25 12:03:45,706-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie American History X sucsessfully parsed
+2022-11-25 12:03:45,811-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Departed sucsessfully parsed
+2022-11-25 12:03:45,909-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Usual Suspects sucsessfully parsed
+2022-11-25 12:03:48,126-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:89-Links in the batch 4 sucsessfully opened, parsing info
+2022-11-25 12:03:48,249-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie The Prestige sucsessfully parsed
+2022-11-25 12:03:48,354-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Whiplash sucsessfully parsed
+2022-11-25 12:03:48,537-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie קזבלנקה sucsessfully parsed
+2022-11-25 12:03:48,632-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Harakiri sucsessfully parsed
+2022-11-25 12:03:48,732-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Intouchables sucsessfully parsed
+2022-11-25 12:03:48,834-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Hotaru No Haka sucsessfully parsed
+2022-11-25 12:03:48,935-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Modern Times sucsessfully parsed
+2022-11-25 12:03:49,101-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie C'era Una Volta Il West sucsessfully parsed
+2022-11-25 12:03:49,212-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Rear Window sucsessfully parsed
+2022-11-25 12:03:49,312-INFO-FILE:parse_IMDB.py-FUNC:parse_details-LINE:113-Page of the movie Alien sucsessfully parsed
+2022-11-25 12:03:51,672-INFO-FILE:parse_IMDB.py-FUNC:parse_movie_pages-LINE:89-Links in the batch 5 sucsessfully opened, parsing info

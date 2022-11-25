@@ -1,0 +1,381 @@
+Parsing using requests
+List of the links successfuly formed, starting to parse individual movie pages
+0  Title : The Shawshank Redemption, Director: Frank Darabont
+1  Title : The Godfather, Director: Francis Ford Coppola
+2  Title : האביר האפל, Director: Christopher Nolan
+3  Title : The Godfather Part II, Director: Francis Ford Coppola
+4  Title : שנים עשר המושבעים, Director: Sidney Lumet
+5  Title : Schindler's List, Director: Steven Spielberg
+6  Title : The Lord of the Rings: The Return of the King, Director: Peter Jackson
+7  Title : Pulp Fiction, Director: Quentin Tarantino
+8  Title : The Lord of the Rings: The Fellowship of the Ring, Director: Peter Jackson
+9  Title : The Good, the Bad and the Ugly, Director: Sergio Leone
+10  Title : Forrest Gump, Director: Robert Zemeckis
+11  Title : Fight Club, Director: David Fincher
+12  Title : The Lord of the Rings: The Two Towers, Director: Peter Jackson
+13  Title : Inception, Director: Christopher Nolan
+14  Title : The Empire Strikes Back, Director: Irvin Kershner
+15  Title : מטריקס, Director: Lana Wachowski   Lilly Wachowski
+16  Title : החבר'ה הטובים, Director: Martin Scorsese
+17  Title : One Flew Over the Cuckoo's Nest, Director: Milos Forman
+18  Title : שבעה חטאים, Director: David Fincher
+19  Title : Shichinin No Samurai, Director: Akira Kurosawa
+20  Title : It's a Wonderful Life, Director: Frank Capra
+21  Title : The Silence of the Lambs, Director: Jonathan Demme
+22  Title : City of God, Director: Fernando Meirelles   Kátia Lund(co-director)
+23  Title : Saving Private Ryan, Director: Steven Spielberg
+24  Title : החיים יפים, Director: Roberto Benigni
+25  Title : Interstellar, Director: Christopher Nolan
+26  Title : גרין מייל, Director: Frank Darabont
+27  Title : Star Wars, Director: George Lucas
+28  Title : Terminator 2: Judgment Day, Director: James Cameron
+29  Title : Back to the Future, Director: Robert Zemeckis
+30  Title : The Wonderful Journey, Director: Hayao Miyazaki
+31  Title : Psycho, Director: Alfred Hitchcock
+32  Title : The Pianist, Director: Roman Polanski
+33  Title : Gisaengchung, Director: Bong Joon Ho
+34  Title : Léon, Director: Luc Besson
+35  Title : The Lion King, Director: Roger Allers   Rob Minkoff
+36  Title : Gladiator, Director: Ridley Scott
+37  Title : American History X, Director: Tony Kaye
+38  Title : The Departed, Director: Martin Scorsese
+39  Title : The Usual Suspects, Director: Bryan Singer
+40  Title : The Prestige, Director: Christopher Nolan
+41  Title : Whiplash, Director: Damien Chazelle
+42  Title : קזבלנקה, Director: Michael Curtiz
+43  Title : Harakiri, Director: Masaki Kobayashi
+44  Title : Intouchables, Director: Olivier Nakache   Éric Toledano
+45  Title : Hotaru No Haka, Director: Isao Takahata
+46  Title : Modern Times, Director: Charles Chaplin
+47  Title : C'era Una Volta Il West, Director: Sergio Leone
+48  Title : Rear Window, Director: Alfred Hitchcock
+49  Title : Alien, Director: Ridley Scott
+50  Title : City Lights, Director: Charles Chaplin
+51  Title : Cinema Paradiso, Director: Giuseppe Tornatore
+52  Title : Apocalypse Now, Director: Francis Ford Coppola
+53  Title : Memento, Director: Christopher Nolan
+54  Title : Raiders of the Lost Ark, Director: Steven Spielberg
+55  Title : Django Unchained, Director: Quentin Tarantino
+56  Title : WALL·E, Director: Andrew Stanton
+57  Title : Das Leben der Anderen, Director: Florian Henckel von Donnersmarck
+58  Title : Sunset Blvd., Director: Billy Wilder
+59  Title : Paths of Glory, Director: Stanley Kubrick
+60  Title : The Shining, Director: Stanley Kubrick
+61  Title : The Great Dictator, Director: Charles Chaplin
+62  Title : Avengers: Infinity War, Director: Anthony Russo   Joe Russo
+63  Title : Witness for the Prosecution, Director: Billy Wilder
+64  Title : Alien 2, Director: James Cameron
+65  Title : Spider-Man: Into the Spider-Verse, Director: Bob Persichetti   Peter Ramsey   Rodney Rothman
+66  Title : American Beauty, Director: Sam Mendes
+67  Title : Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Director: Stanley Kubrick
+68  Title : The Dark Knight Rises, Director: Christopher Nolan
+69  Title : Oldeuboi, Director: Park Chan-wook
+70  Title : Amadeus, Director: Milos Forman
+71  Title : Joker, Director: Todd Phillips
+72  Title : Inglourious Basterds, Director: Quentin Tarantino
+73  Title : Coco, Director: Lee Unkrich   Adrian Molina(co-directed by)
+74  Title : Toy Story, Director: John Lasseter
+75  Title : Braveheart, Director: Mel Gibson
+76  Title : Das Boot, Director: Wolfgang Petersen
+77  Title : Avengers: Endgame, Director: Anthony Russo   Joe Russo
+78  Title : Princess Mononoke, Director: Hayao Miyazaki
+79  Title : Once Upon a Time in America, Director: Sergio Leone
+80  Title : Good Will Hunting, Director: Gus Van Sant
+81  Title : Top Gun: Maverick, Director: Joseph Kosinski
+82  Title : Kimi No Na Wa., Director: Makoto Shinkai
+83  Title : Requiem for a Dream, Director: Darren Aronofsky
+84  Title : Singin' in the Rain, Director: Stanley Donen   Gene Kelly
+85  Title : Toy Story 3, Director: Lee Unkrich
+86  Title : 3 Idiots, Director: Rajkumar Hirani
+87  Title : High and Low, Director: Akira Kurosawa
+88  Title : Star Wars: Episode VI - Return of the Jedi, Director: Richard Marquand
+89  Title : Capharnaüm, Director: Nadine Labaki
+90  Title : Eternal Sunshine of the Spotless Mind, Director: Michel Gondry
+91  Title : 2001: A Space Odyssey, Director: Stanley Kubrick
+92  Title : Reservoir Dogs, Director: Quentin Tarantino
+93  Title : Jagten, Director: Thomas Vinterberg
+94  Title : Idi I Smotri, Director: Elem Klimov
+95  Title : Citizen Kane, Director: Orson Welles
+96  Title : M, Director: Fritz Lang
+97  Title : Lawrence of Arabia, Director: David Lean
+98  Title : North by Northwest, Director: Alfred Hitchcock
+99  Title : Vertigo, Director: Alfred Hitchcock
+Time elapsed :  0:02:08.044268
+Parsing using grequests
+List of the links successfuly formed, starting to parse individual movie pages
+Links in the batch 0 sucsessfully opened, parsing info
+0  Title : The Shawshank Redemption, Director: Frank Darabont
+1  Title : The Godfather, Director: Francis Ford Coppola
+2  Title : האביר האפל, Director: Christopher Nolan
+3  Title : The Godfather Part II, Director: Francis Ford Coppola
+4  Title : שנים עשר המושבעים, Director: Sidney Lumet
+5  Title : Schindler's List, Director: Steven Spielberg
+6  Title : The Lord of the Rings: The Return of the King, Director: Peter Jackson
+7  Title : Pulp Fiction, Director: Quentin Tarantino
+8  Title : The Lord of the Rings: The Fellowship of the Ring, Director: Peter Jackson
+9  Title : The Good, the Bad and the Ugly, Director: Sergio Leone
+Links in the batch 1 sucsessfully opened, parsing info
+10  Title : Forrest Gump, Director: Robert Zemeckis
+11  Title : Fight Club, Director: David Fincher
+12  Title : The Lord of the Rings: The Two Towers, Director: Peter Jackson
+13  Title : Inception, Director: Christopher Nolan
+14  Title : The Empire Strikes Back, Director: Irvin Kershner
+15  Title : מטריקס, Director: Lana Wachowski   Lilly Wachowski
+16  Title : החבר'ה הטובים, Director: Martin Scorsese
+17  Title : One Flew Over the Cuckoo's Nest, Director: Milos Forman
+18  Title : שבעה חטאים, Director: David Fincher
+19  Title : Shichinin No Samurai, Director: Akira Kurosawa
+Links in the batch 2 sucsessfully opened, parsing info
+20  Title : It's a Wonderful Life, Director: Frank Capra
+21  Title : The Silence of the Lambs, Director: Jonathan Demme
+22  Title : City of God, Director: Fernando Meirelles   Kátia Lund(co-director)
+23  Title : Saving Private Ryan, Director: Steven Spielberg
+24  Title : החיים יפים, Director: Roberto Benigni
+25  Title : Interstellar, Director: Christopher Nolan
+26  Title : גרין מייל, Director: Frank Darabont
+27  Title : Star Wars, Director: George Lucas
+28  Title : Terminator 2: Judgment Day, Director: James Cameron
+29  Title : Back to the Future, Director: Robert Zemeckis
+Links in the batch 3 sucsessfully opened, parsing info
+30  Title : The Wonderful Journey, Director: Hayao Miyazaki
+31  Title : Psycho, Director: Alfred Hitchcock
+32  Title : The Pianist, Director: Roman Polanski
+33  Title : Gisaengchung, Director: Bong Joon Ho
+34  Title : Léon, Director: Luc Besson
+35  Title : The Lion King, Director: Roger Allers   Rob Minkoff
+36  Title : Gladiator, Director: Ridley Scott
+37  Title : American History X, Director: Tony Kaye
+38  Title : The Departed, Director: Martin Scorsese
+39  Title : The Usual Suspects, Director: Bryan Singer
+Links in the batch 4 sucsessfully opened, parsing info
+40  Title : The Prestige, Director: Christopher Nolan
+41  Title : Whiplash, Director: Damien Chazelle
+42  Title : קזבלנקה, Director: Michael Curtiz
+43  Title : Harakiri, Director: Masaki Kobayashi
+44  Title : Intouchables, Director: Olivier Nakache   Éric Toledano
+45  Title : Hotaru No Haka, Director: Isao Takahata
+46  Title : Modern Times, Director: Charles Chaplin
+47  Title : C'era Una Volta Il West, Director: Sergio Leone
+48  Title : Rear Window, Director: Alfred Hitchcock
+49  Title : Alien, Director: Ridley Scott
+Links in the batch 5 sucsessfully opened, parsing info
+50  Title : City Lights, Director: Charles Chaplin
+51  Title : Cinema Paradiso, Director: Giuseppe Tornatore
+52  Title : Apocalypse Now, Director: Francis Ford Coppola
+53  Title : Memento, Director: Christopher Nolan
+54  Title : Raiders of the Lost Ark, Director: Steven Spielberg
+55  Title : Django Unchained, Director: Quentin Tarantino
+56  Title : WALL·E, Director: Andrew Stanton
+57  Title : Das Leben der Anderen, Director: Florian Henckel von Donnersmarck
+58  Title : Sunset Blvd., Director: Billy Wilder
+59  Title : Paths of Glory, Director: Stanley Kubrick
+Links in the batch 6 sucsessfully opened, parsing info
+60  Title : The Shining, Director: Stanley Kubrick
+61  Title : The Great Dictator, Director: Charles Chaplin
+62  Title : Avengers: Infinity War, Director: Anthony Russo   Joe Russo
+63  Title : Witness for the Prosecution, Director: Billy Wilder
+64  Title : Alien 2, Director: James Cameron
+65  Title : Spider-Man: Into the Spider-Verse, Director: Bob Persichetti   Peter Ramsey   Rodney Rothman
+66  Title : American Beauty, Director: Sam Mendes
+67  Title : Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Director: Stanley Kubrick
+68  Title : The Dark Knight Rises, Director: Christopher Nolan
+69  Title : Oldeuboi, Director: Park Chan-wook
+Links in the batch 7 sucsessfully opened, parsing info
+70  Title : Amadeus, Director: Milos Forman
+71  Title : Joker, Director: Todd Phillips
+72  Title : Inglourious Basterds, Director: Quentin Tarantino
+73  Title : Coco, Director: Lee Unkrich   Adrian Molina(co-directed by)
+74  Title : Toy Story, Director: John Lasseter
+75  Title : Braveheart, Director: Mel Gibson
+76  Title : Das Boot, Director: Wolfgang Petersen
+77  Title : Avengers: Endgame, Director: Anthony Russo   Joe Russo
+78  Title : Princess Mononoke, Director: Hayao Miyazaki
+79  Title : Once Upon a Time in America, Director: Sergio Leone
+Links in the batch 8 sucsessfully opened, parsing info
+80  Title : Good Will Hunting, Director: Gus Van Sant
+81  Title : Top Gun: Maverick, Director: Joseph Kosinski
+82  Title : Kimi No Na Wa., Director: Makoto Shinkai
+83  Title : Requiem for a Dream, Director: Darren Aronofsky
+84  Title : Singin' in the Rain, Director: Stanley Donen   Gene Kelly
+85  Title : Toy Story 3, Director: Lee Unkrich
+86  Title : 3 Idiots, Director: Rajkumar Hirani
+87  Title : High and Low, Director: Akira Kurosawa
+88  Title : Star Wars: Episode VI - Return of the Jedi, Director: Richard Marquand
+89  Title : Capharnaüm, Director: Nadine Labaki
+Links in the batch 9 sucsessfully opened, parsing info
+90  Title : Eternal Sunshine of the Spotless Mind, Director: Michel Gondry
+91  Title : 2001: A Space Odyssey, Director: Stanley Kubrick
+92  Title : Reservoir Dogs, Director: Quentin Tarantino
+93  Title : Jagten, Director: Thomas Vinterberg
+94  Title : Idi I Smotri, Director: Elem Klimov
+95  Title : Citizen Kane, Director: Orson Welles
+96  Title : M, Director: Fritz Lang
+97  Title : Lawrence of Arabia, Director: David Lean
+98  Title : North by Northwest, Director: Alfred Hitchcock
+99  Title : Vertigo, Director: Alfred Hitchcock
+Links in the batch 10 sucsessfully opened, parsing info
+100  Title : Le fabuleux destin d'Amélie Poulain, Director: Jean-Pierre Jeunet
+101  Title : Naranja mecánica, Director: Stanley Kubrick
+102  Title : The Apartment, Director: Billy Wilder
+103  Title : Ikiru, Director: Akira Kurosawa
+104  Title : Double Indemnity, Director: Billy Wilder
+105  Title : Full Metal Jacket, Director: Stanley Kubrick
+106  Title : Scarface, Director: Brian De Palma
+107  Title : המילטון, Director: Thomas Kail
+108  Title : The Sting, Director: George Roy Hill
+109  Title : To Kill a Mockingbird, Director: Robert Mulligan
+Links in the batch 11 sucsessfully opened, parsing info
+110  Title : Incendies, Director: Denis Villeneuve
+111  Title : Up, Director: Pete Docter   Bob Peterson(co-director)
+112  Title : היט, Director: Michael Mann
+113  Title : נהג מונית, Director: Martin Scorsese
+114  Title : Jodaeiye Nader az Simin, Director: Asghar Farhadi
+115  Title : Metropolis, Director: Fritz Lang
+116  Title : L.A. Confidential, Director: Curtis Hanson
+117  Title : Snatch, Director: Guy Ritchie
+118  Title : מת לחיות, Director: John McTiernan
+119  Title : Ladri di biciclette, Director: Vittorio De Sica
+Links in the batch 12 sucsessfully opened, parsing info
+120  Title : Indiana Jones and the Last Crusade, Director: Steven Spielberg
+121  Title : 1917, Director: Sam Mendes
+122  Title : Taare Zameen Par, Director: Aamir Khan   Amole Gupte(uncredited)
+123  Title : Der Untergang, Director: Oliver Hirschbiegel
+124  Title : For a Few Dollars More, Director: Sergio Leone
+125  Title : Batman Begins, Director: Christopher Nolan
+126  Title : Dangal, Director: Nitesh Tiwari
+127  Title : The Kid, Director: Charles Chaplin
+128  Title : Some Like It Hot, Director: Billy Wilder
+129  Title : The Father, Director: Florian Zeller
+Links in the batch 13 sucsessfully opened, parsing info
+130  Title : All About Eve, Director: Joseph L. Mankiewicz
+131  Title : Green Book, Director: Peter Farrelly
+132  Title : The Wolf of Wall Street, Director: Martin Scorsese
+133  Title : Judgment at Nuremberg, Director: Stanley Kramer
+134  Title : Ran, Director: Akira Kurosawa
+135  Title : Casino, Director: Martin Scorsese
+136  Title : El laberinto del fauno, Director: Guillermo del Toro
+137  Title : Unforgiven, Director: Clint Eastwood
+138  Title : There Will Be Blood, Director: Paul Thomas Anderson
+139  Title : The Truman Show, Director: Peter Weir
+Links in the batch 14 sucsessfully opened, parsing info
+140  Title : The Sixth Sense, Director: M. Night Shyamalan
+141  Title : A Beautiful Mind, Director: Ron Howard
+142  Title : ספיידרמן: אין דרך הביתה, Director: Jon Watts
+143  Title : Yojimbo, Director: Akira Kurosawa
+144  Title : שאטר איילנד, Director: Martin Scorsese
+145  Title : Monty Python and the Holy Grail, Director: Terry Gilliam   Terry Jones
+146  Title : The Treasure of the Sierra Madre, Director: John Huston
+147  Title : Jurassic Park, Director: Steven Spielberg
+148  Title : The Great Escape, Director: John Sturges
+149  Title : Rashomon, Director: Akira Kurosawa
+Links in the batch 15 sucsessfully opened, parsing info
+150  Title : Kill Bill: Vol. 1, Director: Quentin Tarantino
+151  Title : No Country for Old Men, Director: Ethan Coen   Joel Coen
+152  Title : Finding Nemo, Director: Andrew Stanton   Lee Unkrich(co-director)
+153  Title : The Thing, Director: John Carpenter
+154  Title : The Elephant Man, Director: David Lynch
+155  Title : Chinatown, Director: Roman Polanski
+156  Title : Raging Bull, Director: Martin Scorsese
+157  Title : V for Vendetta, Director: James McTeigue
+158  Title : Gone with the Wind, Director: Victor Fleming   George Cukor(uncredited)   Sam Wood(uncredited)
+159  Title : Inside Out, Director: Pete Docter   Ronnie Del Carmen(co-director)
+Links in the batch 16 sucsessfully opened, parsing info
+160  Title : Lock, Stock and Two Smoking Barrels, Director: Guy Ritchie
+161  Title : Dial M for Murder, Director: Alfred Hitchcock
+162  Title : The Secret in Their Eyes, Director: Juan José Campanella
+163  Title : Hauru No Ugoku Shiro, Director: Hayao Miyazaki
+164  Title : The Bridge on the River Kwai, Director: David Lean
+165  Title : Three Billboards Outside Ebbing, Missouri, Director: Martin McDonagh
+166  Title : Trainspotting, Director: Danny Boyle
+167  Title : Warrior, Director: Gavin O'Connor
+168  Title : פארגו, Director: Joel Coen   Ethan Coen(uncredited)
+169  Title : Gran Torino, Director: Clint Eastwood
+Links in the batch 17 sucsessfully opened, parsing info
+170  Title : Prisoners, Director: Denis Villeneuve
+171  Title : My Neighbor Totoro, Director: Hayao Miyazaki
+172  Title : Million Dollar Baby, Director: Clint Eastwood
+173  Title : Catch Me If You Can, Director: Steven Spielberg
+174  Title : Children of Heaven, Director: Majid Majidi
+175  Title : The Gold Rush, Director: Charles Chaplin
+176  Title : Blade Runner, Director: Ridley Scott
+177  Title : On the Waterfront, Director: Elia Kazan
+178  Title : לפני הזריחה, Director: Richard Linklater
+179  Title : 12 Years a Slave, Director: Steve McQueen
+Links in the batch 18 sucsessfully opened, parsing info
+180  Title : Harry Potter and the Deathly Hallows - Part 2, Director: David Yates
+181  Title : Ben-Hur, Director: William Wyler
+182  Title : Wild Strawberries, Director: Ingmar Bergman
+183  Title : The Third Man, Director: Carol Reed
+184  Title : Gone Girl, Director: David Fincher
+185  Title : The General, Director: Clyde Bruckman   Buster Keaton
+186  Title : The Grand Budapest Hotel, Director: Wes Anderson
+187  Title : The Deer Hunter, Director: Michael Cimino
+188  Title : In the Name of the Father, Director: Jim Sheridan
+189  Title : Barry Lyndon, Director: Stanley Kubrick
+Links in the batch 19 sucsessfully opened, parsing info
+190  Title : The Wages of Fear, Director: Henri-Georges Clouzot
+191  Title : Klaus, Director: Sergio Pablos   Carlos Martínez López(co-director)
+192  Title : Hacksaw Ridge, Director: Mel Gibson
+193  Title : Mr. Smith Goes to Washington, Director: Frank Capra
+194  Title : Sherlock Jr., Director: Buster Keaton
+195  Title : זכרונות מרצח, Director: Bong Joon Ho
+196  Title : Relatos salvajes, Director: Damián Szifron
+197  Title : Det sjunde inseglet, Director: Ingmar Bergman
+198  Title : Room, Director: Lenny Abrahamson
+199  Title : Mad Max: Fury Road, Director: George Miller
+Links in the batch 20 sucsessfully opened, parsing info
+200  Title : Mary and Max., Director: Adam Elliot
+201  Title : How to Train Your Dragon, Director: Dean DeBlois   Chris Sanders
+202  Title : ביג לבובסקי, Director: Joel Coen   Ethan Coen(uncredited)
+203  Title : Monsters, Inc., Director: Pete Docter   David Silverman(co-director)   Lee Unkrich(co-director)
+204  Title : Jaws, Director: Steven Spielberg
+205  Title : Dead Poets Society, Director: Peter Weir
+206  Title : The Passion of Joan of Arc, Director: Carl Theodor Dreyer
+207  Title : Tokyo Story, Director: Yasujirô Ozu
+208  Title : Hotel Rwanda, Director: Terry George
+209  Title : Ford v Ferrari, Director: James Mangold
+Links in the batch 21 sucsessfully opened, parsing info
+210  Title : רוקי, Director: John G. Avildsen
+211  Title : Platoon, Director: Oliver Stone
+212  Title : Stand by Me, Director: Rob Reiner
+213  Title : שליחות קטלנית, Director: James Cameron
+214  Title : Spotlight, Director: Tom McCarthy
+215  Title : Logan, Director: James Mangold
+216  Title : Ratatouille, Director: Brad Bird   Jan Pinkava(co-director)
+217  Title : Pather Panchali, Director: Satyajit Ray
+218  Title : Rush, Director: Ron Howard
+219  Title : Network, Director: Sidney Lumet
+Links in the batch 22 sucsessfully opened, parsing info
+220  Title : עד קצה העולם, Director: Sean Penn
+221  Title : The Wizard of Oz, Director: Victor Fleming   George Cukor(uncredited)   Mervyn LeRoy(uncredited)
+222  Title : Before Sunset, Director: Richard Linklater
+223  Title : Groundhog Day, Director: Harold Ramis
+224  Title : The Exorcist, Director: William Friedkin
+225  Title : The Best Years of Our Lives, Director: William Wyler
+226  Title : The Incredibles, Director: Brad Bird
+227  Title : La battaglia di Algeri, Director: Gillo Pontecorvo
+228  Title : To Be or Not to Be, Director: Ernst Lubitsch
+229  Title : Hachi: A Dog's Tale, Director: Lasse Hallström
+Links in the batch 23 sucsessfully opened, parsing info
+230  Title : Pirates of the Caribbean: The Curse of the Black Pearl, Director: Gore Verbinski
+231  Title : Everything Everywhere All at Once, Director: Dan Kwan   Daniel Scheinert
+232  Title : The Grapes of Wrath, Director: John Ford
+233  Title : La haine, Director: Mathieu Kassovitz
+234  Title : Amores perros, Director: Alejandro G. Iñárritu
+235  Title : Jai Bhim, Director: T.J. Gnanavel
+236  Title : Rebecca, Director: Alfred Hitchcock
+237  Title : Babam ve Oglum, Director: Çagan Irmak
+238  Title : Cool Hand Luke, Director: Stuart Rosenberg
+239  Title : Les quatre cents coups, Director: François Truffaut
+Links in the batch 24 sucsessfully opened, parsing info
+240  Title : Ah-ga-ssi, Director: Park Chan-wook
+241  Title : The Sound of Music, Director: Robert Wise
+242  Title : It Happened One Night, Director: Frank Capra
+243  Title : Persona, Director: Ingmar Bergman
+244  Title : Life of Brian, Director: Terry Jones
+245  Title : Dersu Uzala, Director: Akira Kurosawa
+246  Title : Aladdin, Director: Ron Clements   John Musker
+247  Title : The Help, Director: Tate Taylor
+248  Title : The Iron Giant, Director: Brad Bird
+249  Title : Gandhi, Director: Richard Attenborough
+Time elapsed :  0:01:02.411760

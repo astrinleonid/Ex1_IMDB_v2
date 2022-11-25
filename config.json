@@ -1,0 +1,13 @@
+{
+  "target_url" : "https://www.imdb.com",
+  "start_page" : "/chart/top?ref_=nv_mv_250",
+  "header" : {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"},
+  "log_file" : "movies.log",
+  "batch_size" : 10,
+  "tags" : {
+              "mov_list_class" : "lister-list",
+              "main_section_class" : "chart full-width",
+              "director_button_class" : "ipc-metadata-list-item__content-container"
+           },
+  "usage" : "\nUSAGE:\n parse_IMDB.py <mode> \n mode: -r parse with requests \n       -g parse with grequests"
+}
